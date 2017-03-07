@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <video id="polyvVideo" class="vp-v" src="{{video.src}}"></video>
+</view>
+
